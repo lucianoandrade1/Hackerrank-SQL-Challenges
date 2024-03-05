@@ -6,7 +6,6 @@ Given the CITY and COUNTRY tables, query the names of all cities where the CONTI
 
 Find the challenge:
 https://www.hackerrank.com/challenges/african-cities/problem
-
 */
 
 SELECT 
